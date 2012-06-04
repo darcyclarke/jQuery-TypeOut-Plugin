@@ -6,7 +6,7 @@
  ## Example Use
 
  ```html
-<div class='text'>>> Completed Task X. Move to Checkpoint!</div>
+<div class='text'>>> Completed Task X. Move on to Checkpoint!</div>
 ```
  
  ```javascript
