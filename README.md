@@ -3,7 +3,7 @@
 @author Darcy Clarke (http://darcyclarke.me)
 @version 1.0
  
- ##Example Use
+ #Example Use
 
  ```html
 <div class='text'>>> Completed Task X. Move to Checkpoint!</div>
@@ -14,7 +14,7 @@
  $('.text').typeOut({ marker : '|', delay : 500, preserve : true }); // All options set
 ```
 
- ##License
+ #License
 
 Copyright (c) 2012 Darcy Clarke <darcy@darcyclarke.me>
 
