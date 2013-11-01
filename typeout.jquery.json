@@ -1,0 +1,30 @@
+{
+    "name": "typeout",
+    "title": "jQuery TypeOut",
+    "description": "jQuery plugin to imitate the animation of a typewriter.",
+    "keywords": [
+        "type",
+        "typewriter",
+        "animation",
+        "ui",
+        "jquery"
+    ],
+    "version": "1.0.0",
+    "author": {
+        "name": "Darcy Clarke",
+        "url": "http://darcyclarke.me"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/darcyclarke/jQuery-TypeOut-Plugin/master/MIT-LICENSE"
+        }
+    ],
+    "bugs": "https://github.com/darcyclarke/jQuery-TypeOut-Plugin/issues",
+    "homepage": "https://github.com/darcyclarke/jQuery-TypeOut-Plugin",
+    "docs": "https://github.com/darcyclarke/jQuery-TypeOut-Plugin",
+    "download": "http://code.jquery.com/#typeout",
+    "dependencies": {
+        "jquery": ">=1.6"
+    }
+}
