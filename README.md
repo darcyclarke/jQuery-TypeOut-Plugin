@@ -1,4 +1,4 @@
-#jQuery TypeOut Plugin
+# jQuery TypeOut Plugin
 
 A plugin that imitates a type writer-esque animation.
  
@@ -10,9 +10,9 @@ More examples and demos can be found [here](http://darcyclarke.me/development/ty
 <div class='text'>>> Completed Task X. Move on to Checkpoint!</div>
 ```
  
- ```javascript
- $('.text').typeOut(); // Default
- $('.text').typeOut({ marker : '|', delay : 500, preserve : true }); // All options set
+ ```js
+ $('.text').typeOut() // Default
+ $('.text').typeOut({ marker : '|', delay : 500, preserve : true }) // All options set
 ```
 
 ### Options
@@ -29,7 +29,3 @@ Sets the marker that is placed before the typed text
 `delay`: `number` (default: `90`ms)
 
 Sets the delay between display of characters
-
-## License
-Copyright (c) 2013 Darcy Clarke
-Dual licensed under the MIT and GPL licenses.
