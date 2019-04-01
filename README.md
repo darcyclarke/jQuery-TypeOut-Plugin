@@ -4,8 +4,6 @@ A plugin that imitates a type writer-esque animation.
  
 ### Example Use
 
-More examples and demos can be found [here](http://darcyclarke.me/development/type-out-text/)
-
  ```html
 <div class='text'>>> Completed Task X. Move on to Checkpoint!</div>
 ```
